@@ -12,7 +12,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm catboost mlxtend
 cd kaggle-prediction  
 
 运行预测代码  
-python code/predict.py  
+python src/predict.py  
 
 
 # 协作方式
