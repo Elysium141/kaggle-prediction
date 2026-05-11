@@ -3,11 +3,14 @@
 
 # 运行代码
 库下载
-pip install pandas numpy scikit-learn xgboost lightgbm catboost mlxtend
-进入项目根目录
-cd kaggle-prediction
-运行预测代码
-python code/predict.py
+pip install pandas numpy scikit-learn xgboost lightgbm catboost mlxtend  
+
+进入项目根目录  
+cd kaggle-prediction  
+
+运行预测代码  
+python code/predict.py  
+
 
 # 协作方式
 1、Fork目标项目
